@@ -10,7 +10,7 @@
 - [Dashboard Previews](dashboard-previews)
 
 
-  <img src=" https://github.com/Thelma-DataNerd/customer_segmentation/blob/main/Customer%20Segmentation%20Image.png" width="500"/>
+ <img src="https://raw.githubusercontent.com/Thelma-DataNerd/customer_segmentation/main/Customer%20Segmentation%20Image.png" width="500"/>
 
 
 
@@ -53,9 +53,9 @@ Customer Segmentation Using EDA, RFM Analysis, and K-Means Clustering
 <p align="center">
   <img src="https://raw.githubusercontent.com/Thelma-DataNerd/powerbi-projects/main/Sales%20Performance%20Dashboard.jpg" width="400"/>
   <img src="https://raw.githubusercontent.com/Thelma-DataNerd/powerbi-projects/main/Customer%20Segmentation.jpg" width="400"/>
+  <img src="https://raw.githubusercontent.com/Thelma-DataNerd/powerbi-projects/main/Customer%20Segmentation%20Insights%20%26%20Recommendation.jpg" width="400"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/Thelma-DataNerd/powerbi-projects/main/Customer%20Segmentation%20Insights%20%26%20Recommendation.jpg" width="500"/>
-Insights and Recommendations 
+
 
 
