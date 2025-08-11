@@ -1,4 +1,4 @@
-## Customer Segmentation with RFM & K-Means
+## Customer Segmentation and Sales Performance Analysis
 
 ### Table of Contents
 - [Project Overview](#project-overview)
@@ -15,7 +15,7 @@ This study focuses on understanding customer behavior through data analysis and 
 These insights can help businesses tailor marketing campaigns, improve retention, and increase revenue.
 
 ---
-Customer Segmentation Using EDA, RFM Analysis, and K-Means Clustering
+### Customer Segmentation Using EDA, RFM Analysis, and K-Means Clustering
 
 - Objectives: The goal of the study is to identify different customer types based on their purchase patterns, provide actionable insights for targeted marketing, and build a clear, interactive Power BI dashboard for visual storytelling.
 - Tools & Technologies: Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, RFM modeling), Power BI (data modeling and dynamic dashboards), and Google Colab for analysis
